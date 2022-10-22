@@ -1,1 +1,1 @@
-# Desafio proposto pelo prof. Gustavo Guanabara.
+Desafio proposto pelo prof. Gustavo Guanabara.
